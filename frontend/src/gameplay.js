@@ -34,3 +34,12 @@ function renderMap(){
 //      - If both territories are avaiable for an attack move then the "ATTACK" button is made avaialble.
 //      - If the attack button is selcted then then both territories selcetd go to war.
 
+
+// Regroup Mode
+//      - Identify territories belonging to player.
+//      - Allow the selection of an aviable territory beloning to the player.
+//      -  The selected territory displays all available troops.
+//      - Player can select a neighboring territory that ALSO belongs to the player.
+//      - If both selections satisfy then a player can move a certain number of troops and confirm the move.
+//      - The cycle will repeat itself until player selects "End of Turn" option.
+
