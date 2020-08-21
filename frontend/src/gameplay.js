@@ -13,6 +13,8 @@ function renderMap(){
 }
 
 
+// Create a function that identifies which territories belong to player and which ones do not.
+
 // Start of turn 
 //      - Identify all territories belonging to player and count them.
 //      - Based on total count of territories, player gets rewarded a certain number of troops.
@@ -25,4 +27,10 @@ function renderMap(){
 
 
 // Attack Mode
-//
+//      - Identify which territories belong to current player
+//      - Allow the selection of an available territory.
+//      - Identify how many troops are stationed in that selected territory.
+//      - If Selected territory has more than 1 troop than player may attack neighboring territories.
+//      - If both territories are avaiable for an attack move then the "ATTACK" button is made avaialble.
+//      - If the attack button is selcted then then both territories selcetd go to war.
+
