@@ -42,4 +42,3 @@ function renderMap(){
 //      - Player can select a neighboring territory that ALSO belongs to the player.
 //      - If both selections satisfy then a player can move a certain number of troops and confirm the move.
 //      - The cycle will repeat itself until player selects "End of Turn" option.
-

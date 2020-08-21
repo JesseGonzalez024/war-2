@@ -3,3 +3,5 @@
 // Will utalize randomization of teritories.
 
 // Not very intelleginent.
+
+
